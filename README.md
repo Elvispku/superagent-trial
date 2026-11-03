@@ -1,2 +1,2 @@
 # superagent-trial
-trial repo for dsh-superagent
+trial repo for dsh-superagent.
